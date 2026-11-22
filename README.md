@@ -147,6 +147,15 @@ waste-classification-cnn/
 - Improve classification performance for underrepresented categories.
 - Develop a user-friendly web application for waste classification.
 
+🚀 Live Application
+
+Try the deployed EcoSort AI waste classification application:
+
+Open EcoSort AI – Waste Classification App
+https://waste-classification-cnn-3pege9nnd5ncxodz6yqlvo.streamlit.app/
+
+Upload an image of waste and let the trained MobileNetV2 model predict its category.
+
 ## Author
 
 Developed as an academic deep learning project.
